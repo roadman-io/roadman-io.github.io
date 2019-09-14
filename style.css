@@ -203,10 +203,10 @@ a#skiptocontent:active, a#skiptocontent:focus {
 /*-------------- Background Css ------------------*/
 
 .slide-bg-1 {
-	background-image: url(assets/images/slide-bg-2.jpg);
+	background-image: url(assets/images/banner-1.jpg);
 }
 .slide-bg-2 {
-	background-image: url(assets/images/slide-bg-1.jpg);
+	background-image: url(assets/images/banner-2.jpg);
 }
 .slide-bg-3 {
 	background-image: url(assets/images/slide-bg-4.jpg);
@@ -251,7 +251,7 @@ a#skiptocontent:active, a#skiptocontent:focus {
 	background-image: url(assets/images/counter-section-bg.jpg)
 }
 .inner-bg-1 {
-	background-image: url(assets/images/inner-banner.jpg);
+	background-image: url(assets/images/banner-strip.jpg);
 }
 .testimonial-img-bg {
 	background-image: url(assets/images/testimonial.jpg);
@@ -750,7 +750,7 @@ header:after {
 	height: 100%;
 }
 .single-slide-item h2 {
-	color: #ee2424;
+	color: #ee5045;
 	font-size: 48px;
 	text-transform: uppercase;
 	margin-top: 0px;
